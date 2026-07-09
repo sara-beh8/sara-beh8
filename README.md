@@ -1,18 +1,17 @@
-# Hi, I'm Sara 👋
+# Sara Beheyt
 
-**Growth marketer for scaling SaaS — I systematize and automate growth until it runs by itself.**
+**Growth marketer — demand generation, lifecycle & data analytics for SaaS.** I build systems and AI automation that make growth measurable and repeatable.
 
-10 years across demand gen, lifecycle, and data analytics. The repos here are the tooling side of that story: the systems I build so that campaigns audit themselves, renew themselves, and report honestly.
+Ten years across the full funnel at scaling SaaS companies. The repositories here document the systems side of that work: governed campaign operations, AI-assisted build pipelines, and reliable measurement.
 
-🔗 **Case studies with numbers:** [sara-beh8.github.io](https://sara-beh8.github.io) · [LinkedIn](https://www.linkedin.com/in/sara-beheyt/)
+🔗 **Case studies with results:** [sara-beh8.github.io](https://sara-beh8.github.io) · [LinkedIn](https://www.linkedin.com/in/sara-beheyt/)
 
-## What you'll find here
+## Repositories
 
-- ⭐ **lifecycle-campaign-skills** — a campaign build pipeline as AI skills: design → segment → copy → HTML → QA
-- 📏 **lifecycle-ops-standards** — the boring rails that make growth governable: naming conventions, UTM schema, registry templates
-- 🔍 **lifecycle-email-auditor** — AI audit of campaign emails against configurable brand standards
-- 🎯 **signal-gap-analyzer** — finds the better signal your email should have used
+- **lifecycle-campaign-skills** — a lifecycle campaign build pipeline implemented as AI skills: design → segment → copy → HTML → QA
+- **lifecycle-ops-standards** — governance standards for campaign operations: naming conventions, UTM schema, registry template, segment eligibility patterns
+- **sara-beh8.github.io** — portfolio site source
 
-All generalized with synthetic data — the patterns are real, the configs are examples.
+All examples are generalized, using a fictional company and synthetic data — the architecture and methods are real; the configurations are illustrative.
 
-*Currently: Lifecycle Growth @ Gorgias. Next: a scaling company that needs its growth machine built.*
+*Currently: Lifecycle Growth Manager at Gorgias. Open to growth roles at scaling SaaS companies.*
