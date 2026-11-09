@@ -8,7 +8,7 @@ How I work:
 2. **Make sure the data is clean and legitimate.** When it isn't, I fix that first, because automating on bad data only scales the mess.
 3. **Automate what can be automated.** The repetitive side of growth becomes a system I supervise, so the focus goes to creative work and the opportunities repetition hides.
 
-Ten years across the full funnel at scaling SaaS companies. The repositories here document the systems side of that work: governed campaign operations, AI-assisted build pipelines, and reliable measurement.
+Ten years across the full funnel in SaaS, often joining when the data foundations still needed building and leaving them clean, documented and automated. The repositories here document the systems side of that work: governed campaign operations, AI-assisted build pipelines, and reliable measurement.
 
 🔗 **Case studies with results:** [sara-beh8.github.io](https://sara-beh8.github.io) · [LinkedIn](https://www.linkedin.com/in/sara-beheyt/)
 
@@ -31,4 +31,4 @@ All examples are generalized, using a fictional company and synthetic data — t
 **Data** SQL · GA4 · GTM · Looker · Metabase · Power BI · Python · R  
 **Systems & AI** Claude/LLM workflows · n8n · Cargo · Customer.io · Salesforce
 
-*Previously Lifecycle Growth Manager at Gorgias (2025–26). Open to growth roles at scaling SaaS companies — remote-first, AI-native. Based in Lisbon, Portugal.*
+*Previously Lifecycle Growth Manager at Gorgias (2025–26). Open to growth roles in SaaS — remote-first, AI-native. Based in Lisbon, Portugal.*
