@@ -1,6 +1,12 @@
 # Sara Beheyt
 
-**Growth marketer — demand generation, lifecycle & data analytics for SaaS.** I automate the repetitive side of growth so the focus can go to creative work and the opportunities repetition hides — with the measurement to prove what worked.
+**Growth marketer — demand generation, lifecycle & data analytics for SaaS.**
+
+How I work:
+
+1. **Start with what's already there.** I assess the technologies in place and what they can do before adding anything new.
+2. **Make sure the data is clean and legitimate.** When it isn't, I fix that first, because automating on bad data only scales the mess.
+3. **Automate what can be automated.** The repetitive side of growth becomes a system I supervise, so the focus goes to creative work and the opportunities repetition hides.
 
 Ten years across the full funnel at scaling SaaS companies. The repositories here document the systems side of that work: governed campaign operations, AI-assisted build pipelines, and reliable measurement.
 
