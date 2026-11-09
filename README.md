@@ -1,6 +1,6 @@
 # Sara Beheyt
 
-**Growth marketer — demand generation, lifecycle & data analytics for SaaS.**
+**Growth marketer — demand generation, lifecycle & data analytics for SaaS, with a growing focus on companies that are good for people and the planet.**
 
 How I work:
 
@@ -35,4 +35,4 @@ All examples are generalized, using a fictional company and synthetic data — t
 **Data** SQL · GA4 · GTM · Looker · Metabase · Power BI · Python · R  
 **Systems & AI** Claude/LLM workflows · Cargo · Customer.io · Salesforce
 
-*Previously Lifecycle Growth Manager at Gorgias (2025–26). Open to fully remote growth roles in SaaS, with AI-native teams. Based in Lisbon, Portugal.*
+*Previously Lifecycle Growth Manager at Gorgias (2025–26). I'd love to bring growth systems to a SaaS, sustainability or holistic-health company — open to part-time, fully remote roles. Based in Portugal, working remotely.*
