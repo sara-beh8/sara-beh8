@@ -37,4 +37,4 @@ All examples are generalized, using a fictional company and synthetic data — t
 **Data** SQL · GA4 · GTM · Looker · Metabase · Power BI · Python · R  
 **Systems & AI** Claude/LLM workflows · Cargo · Customer.io · Salesforce
 
-*Previously Lifecycle Growth Manager at Gorgias (2025–26). I'd love to bring growth systems to a SaaS, sustainability or holistic-health company — open to part-time, fully remote roles. Based in Portugal, working remotely.*
+*Previously Lifecycle Growth Manager at Gorgias (2025–26). I'd love to bring growth systems to a SaaS, sustainability or holistic-health company — open to part-time, fully remote roles. I am based in Portugal, working remotely.*
