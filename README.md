@@ -19,13 +19,15 @@ The repositories here document the systems side of that work: governed campaign 
 | Repo | What it is |
 |---|---|
 | [**lifecycle-campaign-skills**](https://github.com/sara-beh8/lifecycle-campaign-skills) | A lifecycle campaign build pipeline as AI skills: naming & tracking → design → segment → copy → HTML → QA |
-| [**growth-dashboard-spec**](https://github.com/sara-beh8/growth-dashboard-spec) | How to build a growth dashboard leadership reads: impact-led metric hierarchy, tab structure, SQL patterns |
-| [**lifecycle-ops-standards**](https://github.com/sara-beh8/lifecycle-ops-standards) | Governance for campaign operations: naming conventions, UTM schema, registry template, segment eligibility |
+| [**growth-dashboard-spec**](https://github.com/sara-beh8/growth-dashboard-spec) | How to build a growth dashboard leadership reads: impact-led metric hierarchy and tab structure (SQL patterns on request) |
+| [**lifecycle-ops-standards**](https://github.com/sara-beh8/lifecycle-ops-standards) | Governance for campaign operations: naming conventions, UTM schema, segment eligibility (registry template on request) |
 | [**ai-outbound-engine**](https://github.com/sara-beh8/ai-outbound-engine) | A fully automated outbound play: BigQuery signals → AI personalization → guardrails → Customer.io, orchestrated in Cargo |
 | [**review-language-signal**](https://github.com/sara-beh8/review-language-signal) | Python: finds companies replying to reviews in the wrong language and ranks them as prospects |
 | [**sara-beh8.github.io**](https://github.com/sara-beh8/sara-beh8.github.io) | Portfolio site source |
 
 The three systems repos fit together: **standards** define the names and UTMs → the **pipeline** builds every campaign with them → the **dashboard** attributes results on a single join key.
+
+Several repos are teasers: the method is public, and the full production files are available on request.
 
 All examples are generalized, using a fictional company and synthetic data — the architecture and methods are real; the configurations are illustrative. Once I understand a company's data, I can use these patterns to rebuild the same flows on its own stack with AI, quickly.
 
